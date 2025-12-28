@@ -1,0 +1,15 @@
+.vs/
+
+.bin/
+.bin-int/
+
+.vscode/
+
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Need to be modified or deleted
+Application/
+Core/
